@@ -20,5 +20,25 @@
 	margin-left: 10px ;
 	display:inline;
 	vertical-align: center;
+	color: red;
 	
+	
+}
+.appdescp1
+{
+	margin-left: 5px ;
+	display:inline;
+	vertical-align: centre;
+	font-weight:bold;
+	
+}
+.installapp
+{
+	margin-left : 10px;
+	background-color: red;
+	border: 2px;
+	padding : 10px;
+	text-decoration: none;
+	color : white;
+	border-radius: 10px;
 }
