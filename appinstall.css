@@ -15,14 +15,16 @@
 .appimage
 {
 	display:inline;
+	vertical-align: middle;
 }
 
 .apptitle
 {
 	margin-left: 5px ;
 	display:inline;
-	vertical-align: centre;
+	vertical-align: middle;
 	font-weight:bold;
+	
 	
 }
 .installbutton
